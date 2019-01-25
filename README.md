@@ -1,2 +1,2 @@
-# cv
-https://ganeshdeshmukh1612.github.io/cv/
+#My CV in SE-BTech
+https://ganesh-deshmukh.github.io/cv/
